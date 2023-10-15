@@ -42,6 +42,7 @@
   },
   "devDependencies": {
     "assert": "^2.1.0",
+    "crypto": "^1.0.1",
     "mocha": "^10.2.0",
     "morgan": "^1.10.0"
   }

@@ -1,3 +1,5 @@
+const crypto = require('crypto')
+
 module.exports.generateOTP = (length = 6)=> {
   const digits = '0123456789';
   let otp = '';
