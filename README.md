@@ -1,8 +1,7 @@
-#sequelize-user-auth
+#####sequelize-user-auth
 
+###commands
 
--- commands
-
-npm run test    (RUN all tests)
-npm run watch   (RUN with nodemon)
-npm start       (RUN server)
+#npm run test    (RUN all tests)
+#npm run watch   (RUN with nodemon)
+#npm start       (RUN server)
